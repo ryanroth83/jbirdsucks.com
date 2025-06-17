@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://jbirdsucks.com"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Just kidding, Jbird Rules!"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
@@ -11,7 +11,7 @@ relativeURLs = true
 uglyURLs = true
 
 # Copyright
-copyright = "&copy;2024 Your Name"
+copyright = "&copy;2025 Jbirdsucks.com"
 
 [services]
   [services.googleAnalytics]
@@ -21,10 +21,10 @@ copyright = "&copy;2024 Your Name"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
-  shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  author = "Ryan Roth"
+  description = "Website made for and dedicated to Jbird."
+  # shareImage = "images/social.jpg"
+  # twitterHandle = ""
 
   # Whether you purchased the license from the author.
   licensed = false
