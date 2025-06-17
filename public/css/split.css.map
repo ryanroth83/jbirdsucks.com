@@ -3,12 +3,12 @@
 	"file": "split.css",
 	"sourceRoot": "/Users/ryanroth/Documents/GitHub/jbirdsucks.com",
 	"sources": [
-		"themes/hugo-split-theme/assets/scss/split.scss",
-		"themes/hugo-split-theme/assets/scss/_normalize.scss",
-		"themes/hugo-split-theme/assets/scss/_webflow.scss",
-		"themes/hugo-split-theme/assets/scss/_animation.scss",
-		"themes/hugo-split-theme/assets/scss/_fonts.scss",
-		"themes/hugo-split-theme/assets/scss/_content.scss"
+		"assets/scss/split.scss",
+		"assets/scss/_normalize.scss",
+		"assets/scss/_webflow.scss",
+		"assets/scss/_animation.scss",
+		"assets/scss/_fonts.scss",
+		"assets/scss/_content.scss"
 	],
 	"sourcesContent": [
 		"//-------------------------------------------------------------------------------\n// Variables\n//-------------------------------------------------------------------------------\n\n// Colors\n$color-background   : #0B1C2F;\n$color-name         : #47BEC7;\n$color-tagline      : #DDDDDD;\n$color-text         : #848D96;\n$color-credit       : #485462;\n$color-link         : #848D96;\n$color-link-hover   : #CA486d;\n\n// Breakpoints\n$bp-smallish        : 991px;\n$bp-tablet          : 767px;\n$bp-mobile          : 479px;\n\n// Image\n$image-background   : none;\n$image-position     : 0% 0%;\n\n// Animation\n$animation-name     : fadein;\n$animation-duration : 2s;\n\n//-------------------------------------------------------------------------------\n// Imports\n//-------------------------------------------------------------------------------\n\n@import \"normalize\";\n@import \"webflow\";\n@import \"animation\";\n@import \"fonts\";\n@import \"content\";\n",

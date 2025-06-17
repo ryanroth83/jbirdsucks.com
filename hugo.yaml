@@ -1,7 +1,6 @@
 baseURL: https://jbirdsucks.com
 languageCode: en-US
 title: Just kidding, Jbird Rules!
-theme: hugo-split-theme
 disableKinds:
 - section
 - taxonomy

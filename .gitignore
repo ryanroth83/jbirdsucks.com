@@ -14,3 +14,6 @@ Thumbs.db
 
 # Node/npm junk (if ever used)
 node_modules/
+
+_gen/
+sitespeed-result/
