@@ -1,0 +1,16 @@
+# Hugo output
+/public/
+/resources/
+/.hugo_build.lock
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore backup/swap/temp files
+*~
+*.swp
+*.swo
+
+# Node/npm junk (if ever used)
+node_modules/

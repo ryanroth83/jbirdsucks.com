@@ -1,6 +1,34 @@
-+++
-title = "Jenny Jones"
-tagline = "Designer. Stylist. Nomad."
-+++
+---
+title: "Welcome to JBirdSucks.com"
+tagline: "Where the truth is misunderstood, and the legend lives on."
+---
 
-Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna]({{< ref "long-text.md" >}}) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in]({{< ref "commonmark.md" >}}) malesuada congue, purus sem ullamcorper massa, sit amet lacinia nibh enim sed massa.
+> _“This site is made for and dedicated to Jbird and the misconception that he sucks.”_
+
+Let’s clear things up: Jbird doesn’t actually suck.  
+He just **sucks at being average**.  
+
+### *Is Jbird real?*
+Yes.  
+
+### *Is he myth?*
+Also yes.  
+
+### *Does he own more than one pair of cargo shorts?*
+I'm not legally allowed to disclose that.
+
+---
+
+### Inside you'll find:
+- **Unbiased** evidence of Jbird's so-called “suckage”  
+- **High-definition** images of his face on things it doesn't belong  
+- **100% factual** fake testimonials  
+- And a growing **collection of GIFs** that are definitely not Photoshopped
+
+---
+
+> “I visited JBirdSucks.com and I no longer trust my own opinions.”  
+> — Literally Everyone
+
+### 🎉 Happy Birthday, Jbird.  
+We made you a website because Hallmark doesn’t make cards sarcastic enough.
