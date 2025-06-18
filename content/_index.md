@@ -8,7 +8,7 @@ I made you a website because Hallmark doesn’t make cards sarcastic enough.
 
 ---
 ### Coming Soon:
-- 100% factual** fake testimonials
+- 100% factual fake testimonials
 - Unbiased evidence against Jbird's so-called “suckage”  
 - Growing collection of images that are definitely not Photoshopped
 ---
