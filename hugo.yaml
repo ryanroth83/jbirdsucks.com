@@ -1,6 +1,6 @@
 baseURL: https://jbirdsucks.com
 languageCode: en-US
-title: Just kidding, Jbird Rules!
+title: jbirdsucks.com
 disableKinds:
 - section
 - taxonomy
@@ -19,7 +19,7 @@ services:
     ID: ''
 params:
   author: Ryan Roth
-  description: Website made for and dedicated to Jbird.
+  description: Website dedicated to Jbird.
   licensed: false
   favicon: favicon.ico
   visual:
