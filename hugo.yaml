@@ -10,6 +10,10 @@ disableHugoGeneratorInject: true
 relativeURLs: true
 uglyURLs: true
 copyright: '&copy;2025 Jbirdsucks.com'
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 services:
   googleAnalytics:
     ID: ''
@@ -27,36 +31,18 @@ params:
       enable: true
       mute: true
       file: videos/j-roll.mp4
-  links:
-  - list1:
-      heading: Connect
-      link:
-      - text: Blog
-        url: '#'
-        new_tab: true
-      - text: Email
-        url: '#'
-        new_tab: false
-      - text: Newsletter
-        url: '#'
-  - list2:
-      heading: Social
-      link:
-      - text: Twitter
-        url: '#'
-      - text: Instagram
-        url: '#'
-      - text: Dribbble
-        url: '#'
-  - list3:
-      heading: Network
-      link:
-      - text: Link One
-        url: '#'
-      - text: Link Two
-        url: '#'
-      - text: Link Three
-        url: '#'
+  #links:
+  #- list1:
+  #    heading: Connect
+  #    link:
+  #    - text: Blog
+  #      url: '#'
+  #      new_tab: true
+  #    - text: Email
+  #      url: '#'
+  #      new_tab: false
+  #    - text: Newsletter
+  #      url: '#'
 server:
   headers:
   - for: /**

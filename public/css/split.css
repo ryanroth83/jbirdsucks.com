@@ -514,17 +514,17 @@ h6 {
 h1 {
   font-size: 38px;
   line-height: 44px;
-  margin-top: 20px; }
+  margin-top: 10px; }
 
 h2 {
   font-size: 32px;
   line-height: 36px;
-  margin-top: 20px; }
+  margin-top: 10px; }
 
 h3 {
   font-size: 24px;
   line-height: 30px;
-  margin-top: 20px; }
+  margin-top: 10px; }
 
 h4 {
   font-size: 18px;
@@ -2085,7 +2085,8 @@ a {
   max-height: 100vh;
   background-color: #0B1C2F;
   font-family: Inter, sans-serif;
-  animation: fadein 2s; }
+  animation: fadein 2s;
+  color: #DDDDDD; }
 
 .leftcontent {
   display: -webkit-box;
@@ -2112,7 +2113,7 @@ a {
 .name {
   margin-top: 0px;
   margin-bottom: 40px;
-  color: #47BEC7;
+  color: #DDDDDD;
   font-size: 16px;
   font-weight: normal;
   line-height: 100%;
@@ -2178,11 +2179,13 @@ a {
 
 .credit {
   color: #485462;
-  font-size: 13px; }
+  font-size: 13px;
+  text-align: center; }
 
 .rightcontent {
   overflow: auto;
-  padding: 120px;
+  padding: 30px 60px 30px 60px;
+  /* top | right | bottom | left */
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;

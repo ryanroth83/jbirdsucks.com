@@ -17,6 +17,7 @@ a {
   background-color: $color-background;
   font-family: Inter, sans-serif;
   animation: $animation-name $animation-duration;
+  color: $color-body
 }
 
 .leftcontent {
@@ -124,11 +125,13 @@ a {
 .credit {
   color: $color-credit;
   font-size: 13px;
+  text-align: center;
 }
 
 .rightcontent {
   overflow: auto;
-  padding: 120px;
+  padding: 30px 60px 30px 60px;
+      /* top | right | bottom | left */
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
